@@ -1,8 +1,8 @@
 # Aloha, I'm Jamal Timbobolan
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a cybersecurity student passionate about protecting networks and systems from modern threats <br/>
-I use this space to document my learnings and projects as I grow in this field
+I am a cybersecurity student passionate about protecting networks and systems from modern threats. <br/>
+I use this space to document my learnings and projects as I grow in this field.
 
 ## Objective
 Aspiring cybersecurity professional with a strong interest in blue team operations and general security. <br/>
@@ -12,7 +12,10 @@ well rounded foundation across all areas of cybersecurity.
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Placeholder          | <a href="https://google.com">Placeholder</a>|
+| Placeholder 1          | <a href="https://google.com">Placeholder</a>|
+| Placeholder 2         | <a href="https://google.com">Placeholder</a>|
+| Placeholder 3         | <a href="https://google.com">Placeholder</a>|
+
 
 ## Tools
 ### Network
@@ -41,4 +44,7 @@ well rounded foundation across all areas of cybersecurity.
 </div>
 
 ## Projects
-- Placeholder
+- Placeholder 1
+- Placeholder 2
+- Placeholder 3 
+
