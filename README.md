@@ -32,9 +32,8 @@ well rounded foundation across all areas of cybersecurity.
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> <br/>
-<img src="https://img.shields.io/badge/In Progress CySA%2B-0057B7?&style=for-the-badge&logo=CompTIA&logoColor=white"  />  <br/>
-  
+<img src="https://img.shields.io/badge/Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/In Progress CySA%2B-0057B7?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
 </div>
 
 ## Projects
