@@ -1,4 +1,4 @@
-# Aloha, I'm Jamal Timbobolan
+# Hello! I'm Jamal Timbobolan
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a cybersecurity student passionate about protecting networks and systems from modern threats. <br/>
