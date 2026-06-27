@@ -12,9 +12,9 @@ well rounded foundation across all areas of cybersecurity.
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Placeholder 1          | <a href="https://google.com">Placeholder</a>|
-| Placeholder 2         | <a href="https://google.com">Placeholder</a>|
-| Placeholder 3         | <a href="https://google.com">Placeholder</a>|
+| Placeholder 1         | <a href="https://google.com">Placeholder 1</a>|
+| Placeholder 2         | <a href="https://google.com">Placeholder 2</a>|
+| Placeholder 3         | <a href="https://google.com">Placeholder 3</a>|
 
 
 ## Tools
