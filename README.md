@@ -4,7 +4,6 @@
 I use this space to document my learnings and projects as I grow in this field.
 
 ## Objective
-Aspiring cybersecurity professional with a strong interest in blue team operations and general security. <br/>
 My goal is to develop deep expertise in threat detection, network defense and incident response while building a 
 well rounded foundation across all areas of cybersecurity.
 
