@@ -8,32 +8,31 @@ well rounded foundation across all areas of cybersecurity.
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Placeholder 1         | <a href="https://google.com">Placeholder 1</a>|
-| Placeholder 2         | <a href="https://google.com">Placeholder 2</a>|
-| Placeholder 3         | <a href="https://google.com">Placeholder 3</a>|
+| SIEM & XDR Monitoring         | <a href="https://google.com">Placeholder 1</a>|
+| Threat Detection & Analysis         | <a href="https://google.com">Placeholder 2</a>|
+| MITRE ATT&CK Mapping         | <a href="https://google.com">Placeholder 3</a>|
 
 
 ## Tools
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+### Network Security Monitoring
+- Wireshark
+- Security Onion
+- Zeek
 
 ### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+- Wazuh
+- ELK Stack
+
+### Adversary Simulation
+- Atomic Red Team
+- Kali
 
 ## Certifications
-<div>
-<img src="https://img.shields.io/badge/Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/In Progress CySA%2B-0057B7?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
-</div>
+- CompTIA Security +
+- CompTIA CySA+
 
 ## Projects
-- Placeholder 1
-- Placeholder 2
-- Placeholder 3 
+- <a href="https://github.com/L2-JLT/wazuh-atomic-red-team-detection-lab">Wazuh + Atomic Red Team Detection Lab</a>
+- <a href="#">Network Security Homelab</a>
+- <a href="#">Future Project</a>
 
