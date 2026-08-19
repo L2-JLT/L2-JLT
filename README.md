@@ -1,8 +1,6 @@
 # Hello! I'm Jamal Timbobolan
 <a href="https://www.linkedin.com/in/jamaltimbobolan/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I use this space to document my learnings and projects as I grow in this field.
-
 ## Objective
 My goal is to develop deep expertise in threat detection, network defense and incident response while building a 
 well rounded foundation across all areas of cybersecurity.
