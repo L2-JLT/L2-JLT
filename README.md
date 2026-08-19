@@ -16,16 +16,16 @@ well rounded foundation across all areas of cybersecurity.
 ## Tools
 ### Network Security Monitoring
 - Wireshark
-- Security Onion
-- Zeek
+- Security Onion (WIP)
+- Zeek (WIP)
 
 ### SIEM
 - Wazuh
-- ELK Stack
+- ELK Stack (WIP)
 
 ### Adversary Simulation
 - Atomic Red Team
-- Kali
+- Kali 
 
 ## Certifications
 - CompTIA Security +
@@ -33,6 +33,6 @@ well rounded foundation across all areas of cybersecurity.
 
 ## Projects
 - <a href="https://github.com/L2-JLT/wazuh-atomic-red-team-detection-lab">Wazuh + Atomic Red Team Detection Lab</a>
-- <a href="#">Network Security Homelab</a>
-- <a href="#">Future Project</a>
+- <a href="#">Network Security Homelab (WIP)</a>
+- <a href="#">Future Project (WIP)</a>
 
