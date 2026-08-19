@@ -8,9 +8,9 @@ well rounded foundation across all areas of cybersecurity.
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM & XDR Monitoring         | <a href="https://google.com">Placeholder 1</a>|
-| Threat Detection & Analysis         | <a href="https://google.com">Placeholder 2</a>|
-| MITRE ATT&CK Mapping         | <a href="https://google.com">Placeholder 3</a>|
+| SIEM & XDR Monitoring         | <a href="https://github.com/L2-JLT/wazuh-atomic-red-team-detection-lab">Wazuh + Atomic Red Team Detection Lab</a>|
+| Threat Detection & Analysis         | <a href="https://github.com/L2-JLT/wazuh-atomic-red-team-detection-lab">Wazuh + Atomic Red Team Detection Lab</a>|
+| MITRE ATT&CK Mapping         | <a href="https://github.com/L2-JLT/wazuh-atomic-red-team-detection-lab">Wazuh + Atomic Red Team Detection Lab</a>|
 
 
 ## Tools
